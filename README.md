@@ -1,10 +1,11 @@
 # Amazon Kiro AI Agentic IDE
-## Kiro-IDE
+## Kiro-IDE 🤩🥳
 
 ![Kiro IDE Screenshot](https://github.com/sabbirimon/kiro-ide/blob/main/Images/1_AdG9UGPLBMddMXFh8X1qKQ.jpg?raw=true)
 
 
 ## 👾 Kiro is seeing unprecedented demand. They turned off direct download options 🤕
+### Official link : [Kiro IDE](https://kiro.dev/downloads)
 ---
 ## What is Kiro? 
 Kiro is an agentic IDE that helps you go from prototype to production with spec-driven development.
@@ -42,7 +43,7 @@ Kiro's agents help you solve challenging problems and automate tasks like genera
 ![Alt text](https://github.com/sabbirimon/kiro-ide/blob/main/Images/0_mLTE5kOwxlcanqei.gif?raw=true)
 
 ---
-## Download FREE iso file for Amazon Kiro IDE 
+## Download FREE Amazon Kiro IDE for MAC, Windows & Linux!! 
 
 No Login or Account Registration Required.!!  Direct Download😊😎👍🤝
 
