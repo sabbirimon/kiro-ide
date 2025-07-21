@@ -17,8 +17,8 @@ Kiro's agents help you solve challenging problems and automate tasks like genera
 
 - If you have a problem comment and people will try to help you!
 - No virus ⚠🛡
-- No spam just license key 🔐🔑
-- Kiro is now  🚀
+- No spam just setp files 🔐🔑
+- Kiro is now available on Windows, Mac & Linux  🚀
 
 ## Note: Read Properly 📑
 ---
