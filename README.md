@@ -22,9 +22,9 @@ Kiro's agents help you solve challenging problems and automate tasks like genera
 
 ## Note: Read Properly 📑
 ---
-### Please be aware that these license Amazon kiro is for educational and non-commercial use only. Using them in a production environment or for any commercial purposes may violate Kiro's licensing terms. 
-### It's essential to respect and adhere to Amazon's policies to ensure the integrity of their products and continued support for the community.
+### Please be aware that these license Amazon kiro is for educational and non-commercial use only. Using them in a production environment or for any commercial purposes may violate Kiro's licensing terms.It's essential to respect and adhere to Amazon's policies to ensure the integrity of their products and continued support for the community.
 
+![Coding Animation](https://github.com/sabbirimon/kiro-ide/blob/main/Images/coding-animated-laptop-flow-stream-ja04010rm5o68zfk-ezgif.com-webp-to-gif-converter.gif?raw=true)
 
 ## Do's🤩:
 ---
@@ -63,12 +63,15 @@ No Login or Account Registration Required.!!  Direct Download😊😎👍🤝
 <br>
 <br>
 
+![Coding Animation](https://media.gifdb.com/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)
+
+
 # If you've found our work helpful, I would greatly appreciate it if you could take a moment to give a star ⭐. Your feedback is valuable and helps us improve. Thank you!
 
 <!-- Support Me --> 
 
 
-If you like what I do, maybe consider buying me a coffee 🥺👉👈
+## If you like what I do, maybe consider buying me a coffee 🥺👉👈
 
 <a href="coff.ee/SABBIRIMON" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br>
