@@ -1,4 +1,4 @@
-# Amazon Kiro AI Agentic IDE
+# Amazon Kiro AI Agentic IDE Download 
 ## Kiro-IDE 🤩🥳
 
 ![Kiro IDE Screenshot](https://github.com/sabbirimon/kiro-ide/blob/main/Images/1_AdG9UGPLBMddMXFh8X1qKQ.jpg?raw=true)
@@ -12,9 +12,8 @@ Kiro is an agentic IDE that helps you go from prototype to production with spec-
 From simple to complex tasks, Kiro works alongside you to turn prompts into detailed specs, then into working code, docs, and tests-so what you build is exactly what you want and ready to share with your team.
 Kiro's agents help you solve challenging problems and automate tasks like generating documentation and unit tests. With Kiro, you can build beyond prototypes while being in the driver's seat every step of the way.
 
-## Install Amazon Kiro AI Agentic IDE 
 ---
-
+### Packages 
 - If you have a problem comment and people will try to help you!
 - No virus ⚠🛡
 - No spam just setp files 🔐🔑
@@ -28,12 +27,12 @@ Kiro's agents help you solve challenging problems and automate tasks like genera
 
 ## Do's🤩:
 ---
-- Use the license keys for educational and non-commercial purposes to explore and learn about VMware vSphere.
-- Contribute by adding new keys or updating existing ones to keep the repository current.
+- Use this Kiro-IDE for educational and non-commercial purposes to explore and learn about kiro ide.
+- Contribute by adding new setup files or updating existing ones to keep the repository current.
 - Share your experiences and knowledge with the community to enhance the learning process.
 ## Don't😈:
 ---
-- Use the license keys in a production environment or for any commercial purposes.
+- Use in a production environment or for any commercial purposes not allowed .
 - Share or distribute the license Kiro outside of this GitHub repository.
 - Violate Amazon's licensing terms and policies.
 - Remember to regularly check for updates and contribute responsibly to maintain the repository's integrity and usefulness for the community. Happy virtualizing!
